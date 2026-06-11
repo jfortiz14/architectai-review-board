@@ -271,7 +271,6 @@ Additional features:
   },
   "Foundry": {
 	"Endpoint": "https://<your-resource>.services.ai.azure.com/api/projects/<your-project>",
-	"DeploymentName": "gpt-4.1-mini",
 	"AgentName": "ArchitectAI-ReviewBoard-Agent",
 	"AgentVersion": "7"
   }
