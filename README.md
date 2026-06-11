@@ -284,19 +284,19 @@ Update this to your deployed backend URL when deploying.
 ## Screenshots
 
 ### Architecture Submission Workspace
-![Architecture Submission](screenshots/01-submission.png)
+![Architecture Submission](docs/screenshots/01-submission.png)
 
 ### Multi-Agent Review Execution
-![Agent Execution](screenshots/02-agents.png)
+![Agent Execution](docs/screenshots/02-agents.png)
 
 ### Foundry IQ Grounding
-![Foundry IQ](screenshots/03-foundry-iq.png)
+![Foundry IQ](docs/screenshots/03-foundry-iq.png)
 
 ### Executive Architecture Assessment
-![Executive Summary](screenshots/04-summary.png)
+![Executive Summary](docs/screenshots/04-summary.png)
 
 ### Recommendations & Governance Roadmap
-![Roadmap](screenshots/05-roadmap.png)
+![Roadmap](docs/screenshots/05-roadmap.png)
 
 ---
 
