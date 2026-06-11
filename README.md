@@ -1,6 +1,7 @@
 # ArchitectAI Review Board
 
 > **Multi-Agent Architecture Intelligence Grounded by Microsoft Foundry IQ**
+> 
 > Built on .NET 10, Azure OpenAI, Microsoft AI Foundry Agent Runtime, Azure AI Search, and Microsoft Foundry IQ
 ---
 
@@ -272,7 +273,7 @@ Additional features:
 	"Endpoint": "https://<your-resource>.services.ai.azure.com/api/projects/<your-project>",
 	"DeploymentName": "gpt-4.1-mini",
 	"AgentName": "ArchitectAI-ReviewBoard-Agent",
-	"AgentVersion": "3"
+	"AgentVersion": "7"
   }
 }
 ```
@@ -308,6 +309,11 @@ Update this to your deployed backend URL when deploying.
 ### Recommendations & Governance Roadmap
 ![Roadmap](docs/screenshots/05-roadmap.png)
 
+### Azure Foundry Agent
+![Roadmap](docs/screenshots/08-foundry-agent.png)
+
+### Azure Foundry Knowledge
+![Roadmap](docs/screenshots/07-foundry-kb.png)
 ---
 
 ## Running Locally
