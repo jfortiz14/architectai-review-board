@@ -10,6 +10,16 @@
 
 The system was built for the **Microsoft Agents League Hackathon** and demonstrates an enterprise-grade agent orchestration pattern using Azure OpenAI (GPT-4.1-mini), Azure AI Foundry, and **Microsoft Foundry IQ Integration** — providing knowledge grounding through an Architecture Governance Knowledge Base backed by Azure AI Search and Azure OpenAI text-embedding-3-small.
 
+## Example Scenarios
+
+ArchitectAI Review Board includes sample architecture review scenarios that demonstrate different governance outcomes and risk profiles.
+
+| Scenario | Expected Risk | Expected Health Score | Description |
+|-----------|-----------|-----------|-----------|
+| [Legacy Healthcare Integration Platform](docs/examples/scenario-01-critical-legacy-platform.md) | High | 10-15% | Legacy integration platform with significant security, compliance, and reliability gaps. |
+| [Enterprise Patient Data Exchange Platform](docs/examples/scenario-03-enterprise-patient-exchange.md) | Medium | 40-45% | Balanced enterprise architecture with realistic governance findings. |
+| [Modern Healthcare Integration Platform](docs/examples/scenario-02-modern-cloud-platform.md) | Low | 80-85% | Cloud-native architecture implementing modern security and reliability practices. |
+
 ## Key Features
 
 - Multi-Agent Architecture Review
