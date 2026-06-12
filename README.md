@@ -291,6 +291,14 @@ Update this to your deployed backend URL when deploying.
 
 ---
 
+## Demo Video
+
+ArchitectAI Review Board demonstration showcasing:
+
+▶️ https://youtu.be/0nu59NsBsMQ
+
+---
+
 ## Screenshots
 
 ### Architecture Submission Workspace
